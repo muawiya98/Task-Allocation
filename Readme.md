@@ -1,9 +1,15 @@
-# JSContana: Malicious JavaScript detection using adaptable context analysis and key feature extraction and feature selection model for adaptive cross site scripting attack detection 
+# Task Allocation with Traffic congestion control
 
 ## 1. Introduction
 
-	The efficient allocation of computational tasks to a set of nodes in distributed computing environments, such as cloud computing, edge computing, or sensor networks, is crucial for optimizing system performance. These environments often involve a multitude of tasks, each with distinct computational and communication requirements, as well as a variety of nodes with differing capabilities. Properly allocating tasks to nodes can significantly reduce execution time, minimize energy consumption, and ensure balanced workload distribution. In this context, it is essential to develop algorithms that can dynamically manage task allocation in a way that adapts to the changing conditions of the nodes and tasks.
-	Simulated Annealing (SA) is a probabilistic optimization technique inspired by the annealing process in metallurgy. It has been widely used to solve complex optimization problems due to its ability to escape local optima and explore the solution space more thoroughly. When applied to task allocation, SA can iteratively improve the allocation of tasks to nodes by making small adjustments and accepting these changes based on a probability that decreases over time. This method can help in finding near-optimal solutions for the allocation problem.
+	The efficient allocation of computational tasks to a set of nodes in distributed computing environments, such as cloud computing, edge computing, or sensor networks, is crucial for optimizing system performance. 
+	These environments often involve a multitude of tasks, each with distinct computational and communication requirements, as well as a variety of nodes with differing capabilities. 
+	Properly allocating tasks to nodes can significantly reduce execution time, minimize energy consumption, and ensure balanced workload distribution. 
+	In this context, it is essential to develop algorithms that can dynamically manage task allocation in a way that adapts to the changing conditions of the nodes and tasks.
+	Simulated Annealing (SA) is a probabilistic optimization technique inspired by the annealing process in metallurgy. 
+	It has been widely used to solve complex optimization problems due to its ability to escape local optima and explore the solution space more thoroughly. 
+	When applied to task allocation, SA can iteratively improve the allocation of tasks to nodes by making small adjustments and accepting these changes based on a probability that decreases over time. 
+	This method can help in finding near-optimal solutions for the allocation problem.
 
 
 ## 2. Abstract
