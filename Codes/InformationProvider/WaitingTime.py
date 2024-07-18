@@ -44,7 +44,7 @@ class WaitingTime:
                 if not len(w_t_v)>0:w_t_v=[0]
                 if method_name in [Methods.Avg_Log, Methods.Avg_Tanh, Methods.Avg_Sigmoid, Methods.Avg_Derivative_of_waiting_time]:
                     waiting_time_vehicles.append(np.average(w_t_v))
-                elif method_name in [Methods.Max_Log, Methods.Max_Tanh, Methods.Max_Sigmoid, Methods.Max_Derivative_of_waiting_time, Methods.Fixed, Methods.Maximum_Based]:
+                elif method_name in [Methods.Max_Log, Methods.Max_Tanh, Methods.Max_Sigmoid, Methods.Max_Derivative_of_waiting_time, Methods.Fixed, Methods.Maximum_Based, Methods.Random]:
                     waiting_time_vehicles.append(max(w_t_v))
             else:waiting_time_vehicles.append(0)
         return waiting_time_vehicles

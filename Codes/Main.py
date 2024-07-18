@@ -90,9 +90,9 @@ class SUMO_ENV:
     def Run_Methodes(self):
         switch_dict = {
             # Methods.Max_Log: self.Max_Log,
-            Methods.Fixed: self.Fixed,
+            # Methods.Fixed: self.Fixed,
             # Methods.Maximum_Bacldsed: self.Maximum_Based,
-            # Methods.Random: self.Random,
+            Methods.Random: self.Random,
             # Methods.Avg_Log: self.Avg_Log,
             # Methods.Max_Tanh: self.Max_Tanh,
             # Methods.Avg_Tanh: self.Avg_Tanh,  
